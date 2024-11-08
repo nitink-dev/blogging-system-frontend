@@ -2,6 +2,14 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 18.2.8.
 
+## Cloning Repository - Git commands to work on this repository
+
+git clone https://github.com/nitink-dev/blogging-system-frontend.git
+
+git checkout develop
+
+git checkout -b <your-branch-name>
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The application will automatically reload if you change any of the source files.
